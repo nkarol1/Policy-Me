@@ -1,6 +1,6 @@
 # Insurance Tech - PolicyMe   
 
-![image](https://github.com/nkarol1/PolicyMe/assets/142128214/58d5d6d6-994a-40c1-ac90-56ac1daa2d76)
+![PolicyMe](https://github.com/nkarol1/Policy-Me/assets/142128214/899cff5d-a973-4fa8-be57-cdf4f08877a2)
 
 ## Overview And Origin
 
